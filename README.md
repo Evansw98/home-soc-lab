@@ -22,20 +22,6 @@ Personal PC (Host)
 ├── Kali Linux VM
 └── Windows 11 VM
 
----
-
-## Progress Log
-
-### Day 1
-- Installed VirtualBox
-- Created Kali Linux VM
-- Created Windows 11 VM
-- Installed Sysmon
-- Performed first Nmap scan
-- Verified Sysmon event logging
-
----
-
 ## Tools Used
 - VirtualBox
 - Kali Linux
